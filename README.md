@@ -13,7 +13,9 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tableau-AA00FF?style=flat-square&logo=Tableau&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hk1486)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **hk1486/hk1486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
