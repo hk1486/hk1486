@@ -1,4 +1,6 @@
-### Hi there 👋
+HaeKang Lee
+
+Gachon Univ. Bachelor of science in Computer Engingeering
 
 🌱 **Languages & Tools**  
   
