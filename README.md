@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Scikit_learn-428813?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>   
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 
