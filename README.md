@@ -1,4 +1,4 @@
-## HaeKang Lee
+## HaeKang 
 
 #### Gachon Univ. Bachelor of science in Computer Engineering
 ***
