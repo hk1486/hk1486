@@ -1,6 +1,7 @@
 ## HaeKang Lee
 
-#### Gachon Univ. Bachelor of science in Computer Engineering
+#### Gachon Univ. Bachelor's of science in Computer Engineering
+#### Sungkyunkwan Univ. Master's of Data Science
 ***
 
 ### 🔭 Skills  
